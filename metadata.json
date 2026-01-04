@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Royal Harvest Dry Fruits",
+  "description": "Premium dry fruits and nuts business based in Edmonton, Alberta, providing a curated selection of health-focused organic snacks and luxury gift boxes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
